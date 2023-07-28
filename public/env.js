@@ -51,5 +51,5 @@ window.env = {
   "WSLENV": "WT_SESSION::WT_PROFILE_ID",
   "INIT_CWD": "/home/catsunoki/ngarn-i-phoo/react-frontend/yt-trimmer",
   "EDITOR": "vi",
-  "REACT_APP_BACKEND_ADDRESS": "localhost:8000"
+  "REACT_APP_BACKEND_ADDRESS": "18.142.158.153:8000"
 };
