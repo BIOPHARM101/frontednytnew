@@ -2,7 +2,7 @@ import React from "react";
 import env from "react-dotenv";
 
 
-const backendIPAddress = 18.142.158.153:8000/download;
+const backendIPAddress = "18.142.158.153:8000/download";
 
 const Downloader = (props) => {
   const [url, setUrl] = React.useState("");
